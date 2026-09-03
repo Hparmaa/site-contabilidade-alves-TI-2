@@ -1,4 +1,4 @@
-# site-contabilidade-alves-TI-2
+# Site Contabilidade Alves
 
 Modelo de um site de contabilidade desenvolvido durante as aulas de TI-2
 
